@@ -1,0 +1,199 @@
+
+
+
+.bodyClass{
+   
+background-color:white;
+
+   
+}
+#headerDesign{
+    font-weight: bold;
+    background-color:#cef8dd;
+    color: #04AA6D;;
+    height: 70px;
+    font-size:50px;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 24px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    
+  
+    
+}
+
+.div1Class{
+    
+  float: left;
+  width: 50%;
+
+}
+#div1ClassId1{
+    font-family: Lato, sans-serif;
+    font-size: 37px ;
+     margin-bottom: 15px;
+    margin-top: 5%;
+    color:#04AA6D;
+    
+
+
+}
+#div1ClassId2{
+    font-family: Lato, sans-serif;
+    font-size:25px;
+    width: 1000px;
+    text-align: justify;
+
+      ;
+    
+}
+
+tr{
+    font-weight: bold;
+    font-family:  Lato, sans-serif;
+}
+
+
+.sectionDesign{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.5%;
+}
+#secLeft{
+margin-left: 1%;
+font-weight: bold;
+}
+#secRight{
+margin-right: 1%;
+font-weight: bold;
+}
+
+.tableClass{
+    background-color: #cef8dd;
+    width: 1040px;
+    font-size: large;
+  border: solid black;
+  font-family: Lato, sans-serif;
+}
+
+table,tr, th, td {
+    border-collapse: collapse;
+    border: 1px solid black;
+  }
+
+td:hover{
+    background-color: white;
+    height: 20px;
+}
+th{
+    background-color: white;
+    padding: 10px;
+}
+td{
+    height: 30px;
+}
+
+#internshipDesign{
+    height: 3px;
+    margin-left: 25px;
+    font-size: 22px;
+    
+}
+
+
+.div2Class{
+    
+    float: right;
+    width: 50%;
+}
+
+.skill{
+    font-weight: bolder;
+    line-height: 40px;
+}
+
+.A1 li{
+    font: size large
+}
+
+.y{
+    font-size: 22px;
+    font-family:  Lato, sans-serif;
+}
+
+.z{
+    font-size: large;
+}
+
+.M{
+    font-weight: bolder;
+    line-height: 60px;
+    font-size: 22px;
+    font-family: Lato, sans-serif ;
+}
+
+.N{
+    float: right;
+    margin-top: 5%;
+    margin-right: 130px;
+   
+}
+
+.q{
+    
+        transform: translateY(-1200px); /* Adjust the value (-20px) as needed */
+      border-radius: 50%;
+      border-image: round;
+      border: 10px solid #04AA6D;
+      position: relative;
+    
+      border-block-color: yellow red;
+      
+      
+      
+}
+
+p{
+    font-family:  Lato, sans-serif;
+}
+
+.A1{
+    font-family:  Lato, sans-serif;
+    font-size: 22px;
+}
+
+.z{
+    font-size: 22px;
+    font-family:  Lato, sans-serif;
+}
+
+.skill{
+    font-family: Lato, sans-serif;
+    font-size: 22px;
+    line-height: 60px;
+}
+
+.xx{
+    transform:translateY(-1100px);
+}
+
+#yy{
+    transform:translateY(-1100px);
+    font-family: Lato, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 40px;
+}
+
+.zz{
+    transform:translateY(230px);
+    font-weight: bold;
+    font-size: large;
+}
+
+#zzz{
+    font-size: medium;
+    color: black;
+    transform:translateY(27px);
+}
